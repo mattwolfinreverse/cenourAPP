@@ -4,7 +4,7 @@
   "name": "HelloCordova",
   "short_name": "HelloCordova",
   "version": "io.cordova.hellocordova",
-  "description": "A sample Apache Cordova application that responds to the deviceready event.",
+  "description": "APP desenvolvido acompanhando o livro de Cordova/PhoneGap da aula de Programacao para Dispositivos Moveis, FATEC Carapicuiba, ADS, horário noturno.",
   "author": "Apache Cordova Team",
   "icons": [],
   "start_url": "index.html"
